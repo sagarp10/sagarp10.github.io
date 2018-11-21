@@ -1,0 +1,22 @@
+.box
+{
+	border: 1px solid black;
+	height:170px;
+}
+
+.galleryLandingPage
+{
+	border: 1px solid black;
+	height:320px;
+}
+
+.headerPage
+{
+	border: 1px solid black;
+}
+
+.footerPage
+{
+	border: 1px solid black;
+	height:150px;
+}
